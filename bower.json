@@ -1,0 +1,13 @@
+{
+  "name": "kit",
+  "description": "kit",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "normalize-css": "latest",
+    "d3": "latest",
+    "angular-animate": "latest",
+    "angular-ui-router": "latest"
+  }
+}
