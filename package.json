@@ -1,0 +1,33 @@
+{
+  "name": "kit",
+  "version": "1.0.0",
+  "description": "Vector Graphycs Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game",
+    "Vector",
+    "Angular",
+    "js",
+    "d3"
+  ],
+  "author": "AlexPol",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest",
+    "underscore": "latest",
+    "glob": "latest"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "event-stream": "^3.3.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-plumber": "^1.0.1"
+  }
+}
